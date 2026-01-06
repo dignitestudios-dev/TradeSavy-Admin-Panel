@@ -34,7 +34,7 @@ export const THEME_OPTIONS = {
 };
 
 export const API_CONFIG = {
-  baseURL: import.meta.env.VITE_BASE_URL || "http://localhost:8080", // set in .env or hardcore here
+  baseURL: "http://98.93.243.37/",
   timeout: 100000, //your custom timeout for the API
   headers: {
     "Content-Type": "application/json",
