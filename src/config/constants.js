@@ -34,7 +34,7 @@ export const THEME_OPTIONS = {
 };
 
 export const API_CONFIG = {
-  baseURL: "http://98.93.243.37/",
+  baseURL: "https://backend.trade-savvy.co/",
   timeout: 100000, //your custom timeout for the API
   headers: {
     "Content-Type": "application/json",
